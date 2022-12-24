@@ -1,0 +1,1 @@
+/home/shved/.local/bin/rofi/wifi.sh

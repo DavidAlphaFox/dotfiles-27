@@ -1,0 +1,142 @@
+
+[global]
+
+    monitor = 0
+
+	##### appearance 
+    font                        = Monoscape 12                              # font
+    frame_width                 = 1                                         # frames
+    transparency                = 0                                         # transparency (0-100)
+    padding                     = 4                                         # Vertical padding
+    horizontal_padding          = 4                                         # horizontal padding
+    origin                      = top-right                                 # position
+    offset                      = 17x42                                     # offset
+    width                       = 400                                       # width
+    height                      = 400                                       # height
+    separator_height            = 4                                         # separator height beetwen notifications 
+    indicate_hidden             = false                                     # indicate hidden notifications
+    gap_size                    = 5                                         # gap size beetwen notifications
+    separator_color             = foreground                                # separator color
+    corner_radius               = 0                                         # corner radius
+
+    ##### icons
+    icon_theme                  = Stylish                                   # icon theme
+    icon_position               = left                                      # icon position
+    min_icon_size               = 64                                        # minimal icon size
+    max_icon_size               = 64                                        # maximum icon size
+    text_icon_padding           = 15                                        # icon
+
+	##### progress bar
+    progress_bar                = true                                      # enable / disable progress bar
+    progress_bar_height         = 10                                        # progress bar height
+    progress_bar_frame_width    = 1                                         # progress bar frame width
+    progress_bar_min_width      = 150                                       # progress bar minimal width
+    progress_bar_max_width      = 300                                       # progress bar maximum width
+		
+    ##### settings
+    sort                        = yes                                       # sort messages by urgency
+    line_height                 = 2                                         # idk what is this
+    markup                      = full                                      # html markup
+	format                      = "<b>%s</b>\n%b"                           # foramt of notification
+    alignment                   = left                                      # alignment of message text
+    timeout                     = 3                                         # timeout for notifications 
+    vertical_alignment          = center                                    # vertical alignment of message text and icon
+    ellipsize                   = end                                       # specify where to make an ellipsis in long lines
+    ignore_newline              = no                                        # ignore new lines
+    stack_duplicates            = false                                     # stack duplicates
+    show_indicators             = false                                     # display indicators for URLs (U) and actions (A)
+    browser                     = /usr/bin/firefox                          # default browser for URLs
+    title                       = Dunst                                     # default window title 
+    class                       = dunst                                     # default window class (xprop | grep WM_CLASS)
+    mouse_left_click            = open_url, close_current, do_action        # left click action
+    mouse_right_click           = close_all                                 # right click action
+
+    ##### other
+    [experimental]
+    per_monitor_dpi             = false                                     # experimental shit
+
+
+    ##### colors
+
+    # catppuccin frappe
+    
+    # [urgency_low]
+    # frame_color                 = "#b7bdf8"
+    # background                  = "#303446"
+    # foreground                  = "#C6D0F5"
+    # [urgency_normal]
+    # frame_color                 = "#b7bdf8"
+    # background                  = "#303446"
+    # foreground                  = "#C6D0F5"
+    # [urgency_critical]
+    # frame_color                 = "#bc5557"
+    # background                  = "#303446"
+    # foreground                  = "#C6D0F5"
+    # timeout                     = 10
+    
+    # catppuccin latte
+
+    # [urgency_low]
+    # frame_color                 = "#1E66F5"
+    # background                  = "#EFF1F5"
+    # foreground                  = "#4C4F69"
+    # [urgency_normal]
+    # frame_color                 = "#1E66F5"
+    # background                  = "#EFF1F5"
+    # foreground                  = "#4C4F69"
+    # [urgency_critical]
+    # frame_color                 = "#FE640B"
+    # background                  = "#EFF1F5"
+    # foreground                  = "#4C4F69"
+    # timeout                     = 10
+
+    # catppuccin macchiato
+    
+    # [urgency_low]
+    # frame_color                 = "#b7bdf8"
+    # background                  = "#24273A"
+    # foreground                  = "#CAD3F5"
+    # [urgency_normal]
+    # frame_color                 = "#b7bdf8"
+    # background                  = "#24273A"
+    # foreground                  = "#CAD3F5"
+    # [urgency_critical]
+    # frame_color                 = "#bc5557"
+    # background                  = "#24273A"
+    # foreground                  = "#CAD3F5"
+    # timeout                     = 10
+
+    # catppuccin mocha
+
+    # [urgency_low]
+    # frame_color                 = "#89B4FA"
+    # background                  = "#1E1E2E"
+    # foreground                  = "#CDD6F4"
+    # [urgency_normal]
+    # frame_color                 = "#89B4FA"
+    # background                  = "#1E1E2E"
+    # foreground                  = "#CDD6F4"
+    # [urgency_critical]
+    # frame_color                 = "#bc5557"
+    # background                  = "#1E1E2E"
+    # foreground                  = "#CDD6F4"
+    # timeout                     = 10
+
+    # gruvbox
+    
+    [urgency_low]
+    frame_color                 = "#c08951"
+    background                  = "#282828"
+    foreground                  = "#ebdbb2"
+    [urgency_normal]
+    frame_color                 = "#c08951"
+    background                  = "#282828"
+    foreground                  = "#ebdbb2"
+    [urgency_critical]
+    frame_color                 = "#cc241d"
+    background                  = "#282828"
+    foreground                  = "#ebdbb2"
+    timeout                     = 10
+
+
+# vim:ft=cfg

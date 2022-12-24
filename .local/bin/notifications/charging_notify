@@ -1,0 +1,17 @@
+#!/bin/bash
+# https://github.com/shvedes/dotfiles
+# original https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/bin/chargingnotify
+
+export XAUTHORITY=/home/shved/.Xauthority
+export DISPLAY=:0
+export DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus"
+
+BATTERY_CHARGING=$1
+ICON_CHARGING="$HOME/.local/bin/notifications/icons/battery_charging.png"
+ICON_DISCHARGING="$HOME/.local/bin/notifications/icons/battery_discharging.png"
+
+if [ $BATTERY_CHARGING -eq 1 ]; then
+    notify-send -a "ChargingNotify" -i $ICON_CHARGING "Power adapter plugged"  -u low -r 998
+elif [ $BATTERY_CHARGING -eq 0 ]; then
+    notify-send -a "ChargingNotify" -i $ICON_DISCHARGING "Power adapter unplugged" -u low -r 998
+fi
