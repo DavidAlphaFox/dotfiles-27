@@ -22,11 +22,6 @@
         
 </div>
 
-<div>
-      <img align="left" src="https://ezgif.com/images/loadcat.gif">
-      <img align="right" src="https://ezgif.com/images/loadcat.gif">
-</div>
-
 
 <div align="center">
 
