@@ -33,7 +33,7 @@
 
 
 
-![1](assets/first.png)
+![1](assets/first.png) 
 
 ![2](assets/second.png)
 
@@ -67,3 +67,86 @@
 - **GTK theme selector: [lxappearance](https://github.com/lxde/lxappearance)**
 - **Graphical volume managment: [Pavucontrol](https://github.com/pulseaudio/pavucontrol)**
 
+## **Dependencies** 
+---
+
+- **spotify-polybar-module**
+- **picom-animations-git**
+- **xdotooll**
+- **xidlehook**
+- **dunst**
+- **xdo**
+
+
+## **Features**
+---
+
+- **Battery critical level / fully charged alert (udev rule)**
+- **USB mouse plug in notification (udev rule)**
+- **Battery staus notifications (AC source or battery, udev rule)**
+- **USB flash drive plug / unplug notifications (udev rule)**
+- **Volume / Brightness / Microphone notifications**
+- **Compositor animations**
+- **Wifi menu (via rofi)**
+- **Current track polybar indicator**
+
+## **To do list**
+---
+
+- **Display manaer instead of default tty login**
+- **Theme selector script (not sure)**
+
+## **Aviable themes**
+---
+
+- **Catppuccin frappe**
+- **Catppuccin latte**
+- **Catppuccin macchiato**
+- **Catppuccin mocha**
+- **Gruvbox dark**
+
+### **Icons**
+
+- **[Stylish](https://github.com/kuroehanako/Stylish-icon-theme)**
+
+### **Color schemes that I plan to add (list can grow)**
+
+- **Gruvbox light**
+- **Dracula**
+
+## **More screenshots (list can grow)**
+---
+<div align="center"><p><b>Gruvbox</b></p></div>
+
+![GruvboxMain](assets/gruvbox_main.png)
+
+![GruvboxSpotify](assets/gruvbox_spotify.png)
+
+![GruvboxOBS](assets/gruvbox_obs.png)
+
+![GruvboxThunar](assets/gruvbox_thunar.png)
+
+![GruvboxTorrent](assets/gruvbox_qbittorrent.png)
+
+![GruvboxRofi](assets/gruvbox_rofi_menu.png)
+
+![GruvboxWifi](assets/gruvbox_wifi_menu.png)
+
+![GruvboxUSBConnected](assets/gruvbox_usb_plug.png)
+![GruvboxUSBDisconnected](assets/gruvbox_usb_unplug.png)
+![GruvboxACPlugged](assets/gruvbox_ac_plugged.png)
+![GruvboxACUnplugged](assets/gruvbox_ac_unplugged.png)
+![GruvboxMouse](assets/gruvbox_mouse_connected.png)
+
+
+## **Known issues**
+---
+
+- **Transparent windows flickering (picom fork issue maybe)**
+
+## **Contributor note**
+---
+
+**Some configs were made with ChatGPT bot :))**
+
+<div align="center"><img src="assets/cat.svg"></div>
