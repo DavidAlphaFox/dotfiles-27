@@ -62,6 +62,7 @@
   - **[LightDM theme](#lightdm-theme)**
   - **[More screenshots](#more-screenshots-list-can-grow)**
 - **[Dependencies](#dependencies)**
+- **[BSPWM shortcuts](#bspwm-shortcuts)**
 - **[Known issues](#known-issues)**
 - **[Contributor note](#contributor-note)**
 
@@ -185,6 +186,47 @@ git clone https://github.com/shvedes/dotfiles
 cd dotfiles
 yay -S $(cat DEPENDENCIES)
 ```
+
+## **BSPWM shortcuts**
+
+
+| Parameter        | Shortcut |
+| ---------------- | ----------- |
+| close window     | super + q |
+| fullscreen mode  | super + f | 
+| rotate windows   | super + r | 
+| focus left       | super + j |
+| focues right     | super + k |
+| focus top        | super + ; |
+| focus bottom     | super + l |
+| focus next/prev  | super + n |
+| switch layout    | super + m |
+| swap left        | super + shift + j |
+| swap right       | super + shift + k | 
+| swap top         | super + shift + ; |
+| swap bottom      | super + shift + l |
+| tiled/floating   | super + f | 
+| tiled/pseudo_tiled | super + t |
+| move window to workspace ***number*** | super + shift + (1-9,0) |
+| resize windows   | super + shift + (Arrow keys)
+| workspace ***number*** | super + (1-9,0) |
+| next workspace   | ctrl + alt + Right |
+| prev workspace   | ctrl + alt + Lrft | 
+| last workspace   | super + tab |
+| restart bspwm & sxhkd | super + shift + r | 
+| bspwm quit       | ctrl + alt + q | 
+| fullscreen screenshot | super + shift + z | 
+| active window screenshot | super + shift + a | 
+| area screenshot  | super + shift + s |
+| rofi             | super + a |
+| clipboard        | super + c | 
+| clear clipboard  | super + shift + c |
+| thunar           | super + e | 
+| spotify (if installed) | ctrl + alt + s |
+| firefox          | ctrl + alt + f | 
+| terminal         | super + Return |
+| change wallpaper | super + shift + w | 
+| lock session     | ctrl + shift + l |
 
 
 ## **Known issues**
