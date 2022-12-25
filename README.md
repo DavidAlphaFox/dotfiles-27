@@ -102,7 +102,8 @@
 
 ### **Used Thunar plugins**
 
-- **Soon...**
+- **`thunar-archive-plugin` (the name speaks for itself)**
+- **`thunar-media-tags-plugin` (bulk rename and manage media files)**
 
 ## **Features**
 
@@ -121,7 +122,7 @@
 - ~~**Display manager instead of default tty login**~~ Done
 - **Theme selector script (not sure)**
 - **More themes, more cursors, more icons...**
-- **Add more comments in configs**
+- ~~**Add more comments in configs**~~ Done
 
 
 ## **Aviable themes**
@@ -179,6 +180,11 @@
 
 
 ## **Dependencies**
+
+- **`tumbler` (image thumbnails)** 
+- **`file-roller` (graphical archive manager)**
+- **`xidlehook` (screen locker)**
+
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
 ```
