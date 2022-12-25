@@ -48,6 +48,25 @@
 
 </div>
 
+# **Table of Contents**
+
+- **[Environment](#Environment)**
+  - **[Used neovim plugins](#used-neovim-plugins)**
+  - **[Used Thunar plugins](#used-thunar-plugins)**
+- **[Features](#features)**
+- **[To do list](#to-do-list)**
+- **[Aviables themes](#aviable-themes)**
+  - **[Color schemes that I plan to add](#color-schemes-that-i-plan-to-add-list-can-grow)**
+  - **[Icons](#icons)**
+  - **[Cursors](#cursors)**
+  - **[LightDM theme](#lightdm-theme)**
+  - **[More screenshots](#more-screenshots-list-can-grow)**
+- **[Dependencies](#dependencies)**
+- **[Known issues](#known-issues)**
+- **[Contributor note](#contributor-note)**
+
+
+
 ## **Environment**
 
 - **OS: [Arch Linux](https://archlinux.org/)**
@@ -60,6 +79,7 @@
 - **App launcher: [Rofi](https://github.com/davatorium/rofi)**
 - **Clipboard: [Greenclip](https://github.com/erebe/greenclip)**
 - **File manager: [Thunar](https://github.com/xfce-mirror/thunar)**
+- **Display manager: [LightDM](https://github.com/canonical/lightdm)**
 - **Screen lock: [Betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)**
 - **QT theme selector: [qt5ct](https://github.com/desktop-app/qt5ct), [at6ct](https://github.com/trialuser02/qt6ct)**
 - **GTK theme selector: [lxappearance](https://github.com/lxde/lxappearance)**
@@ -97,8 +117,9 @@
 
 ## **To do list**
 
-- **Display manager instead of default tty login**
+- ~~**Display manager instead of default tty login**~~ Done
 - **Theme selector script (not sure)**
+- **More themes, more cursors, more icons...**
 
 
 ## **Aviable themes**
@@ -109,16 +130,26 @@
 - **Catppuccin mocha**
 - **Gruvbox dark**
 
-### **Icons**
-
-- **[Stylish](https://github.com/kuroehanako/Stylish-icon-theme)**
-
 ### **Color schemes that I plan to add (list can grow)**
 
 - **Gruvbox light**
 - **Dracula**
 
-## **More screenshots (list can grow)**
+
+### **Icons**
+
+- **[Stylish](https://github.com/kuroehanako/Stylish-icon-theme)**
+
+### **Cursors**
+
+- **[Material light](https://github.com/varlesh/material-cursors)**
+
+### **LightDM theme**
+
+- **[Aether](https://github.com/NoiSek/Aether)**
+
+
+### **More screenshots (list can grow)**
 ---
 <div align="center"><p><b>Gruvbox</b></p></div>
 
