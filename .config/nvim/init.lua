@@ -1,9 +1,9 @@
--- import main settings & plugins
+-- https://github.com/shvedes/dotfiles
 
 require('settings')                         -- main vim / neovim settings
 require('keymaps')                          -- custom keymaps / shortcuts
 require('plugins')                          -- list of plugins
-require('nvim-highlight-colors').setup      -- highlight colors
+require('nvim-highlight-colors').setup {}   -- highlight colors
 require('configs.catppuccin')               -- theme settings
 require('configs.gruvbox')                  -- gruvbox theme 
 require('nvim-tree').setup()                -- file explorer

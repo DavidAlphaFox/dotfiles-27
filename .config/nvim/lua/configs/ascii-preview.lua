@@ -1,4 +1,5 @@
--- Require and call setup function somewhere in your init.lua
+-- https://github.com/shvedes/dotfiles
+
 require('image').setup {
   render = {
     min_padding = 5,

@@ -1,6 +1,8 @@
+-- https://github.com/shvedes/dotfiles
+
 require("catppuccin").setup({
-    flavour = "macchiato", -- latte, frappe, macchiato, mocha
-    background = { -- :h background
+    flavour = "macchiato", 
+    background = { 
         light = "latte",
         dark = "macchiato",
     },
@@ -11,8 +13,8 @@ require("catppuccin").setup({
         shade = "dark",
         percentage = 0.15,
     },
-    no_italic = false, -- Force no italic
-    no_bold = false, -- Force no bold
+    no_italic = false, 
+    no_bold = false, 
     styles = {
         comments = { "italic" },
         conditionals = { "italic" },
@@ -36,9 +38,5 @@ require("catppuccin").setup({
         telescope = true,
         notify = false,
         mini = false,
-        -- For more plugins integrations please scroll down (https://github.com/catppuccin/nvim#integrations)
     },
 })
-
--- setup must be called before loading
--- vim.cmd.colorscheme "catppuccin"

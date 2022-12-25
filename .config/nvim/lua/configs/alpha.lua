@@ -1,3 +1,5 @@
+-- https://github.com/shvedes/dotfiles
+
 local alpha = require("alpha")
 local dashboard = require("alpha.themes.dashboard")
 

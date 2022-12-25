@@ -1,3 +1,5 @@
+-- https://github.com/shvedes/dotfiles
+
 local opt = vim.opt 
 local g = vim.g
 
