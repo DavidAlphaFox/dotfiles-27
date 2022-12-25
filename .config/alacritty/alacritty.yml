@@ -1,10 +1,13 @@
 # https://github.com/shvedes/dotfiles
+
+# import file with colorscheme
 import:
   - ~/.config/alacritty/colors/gruvbox_dark.yaml
 
 env:
   TERM: alacritty
 
+# font settings
 font:
   normal:
     family: JetBrains Mono
@@ -20,6 +23,7 @@ font:
     style: Bold Italic
   size: 8.0
 
+# window settings
 window:
   startup_mode: Windowed
   dynamic_padding: true
@@ -27,17 +31,21 @@ window:
   title: Alacritty
   opacity: 1
 
+# cursor settings
 cursor:
   style:
     shape: Block
     blinking: Off
   unfocused_hollow: false
 
+# scroll settings
 scrolling:
   history: 1000
   multiplier: 3
 
+# selection
 selection: 
+  # save to clipboard selected text
   save_to_clipboard: true
 
 draw_bold_text_with_bright_colors: true
