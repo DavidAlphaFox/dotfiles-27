@@ -28,6 +28,4 @@ plugins=(
 source $HOME/.oh-my-zsh/oh-my-zsh.sh
 
 # Aliases
-alias clean="sh $HOME/.local/bin/scripts/clean-packages"
-alias ram="sudo sh $HOME/.config/scripts/clear-ram.sh"
 alias nf="neofetch"
