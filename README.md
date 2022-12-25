@@ -49,8 +49,6 @@
 </div>
 
 ## **Environment**
----
-
 
 - **OS: [Arch Linux](https://archlinux.org/)**
 - **Recorder: [OBS](https://obsproject.com/download)**
@@ -67,14 +65,23 @@
 - **GTK theme selector: [lxappearance](https://github.com/lxde/lxappearance)**
 - **Graphical volume managment: [Pavucontrol](https://github.com/pulseaudio/pavucontrol)**
 
-## **Dependencies**
+### **Used neovim plugins**
 
-**All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
-```
-git clone https://github.com/shvedes/dotfiles
-cd dotfiles
-yay -S $(cat DEPENDENCIES)
-```
+- **Packer (for managing plugins)**
+- **Comment.nvim (usefull shortcuts for comments)**
+- **Alpha-nvim (startup dashboard)**
+- **Nvim-cmp (autocompletion)**
+- **image (preview images in ascii format)**
+- **Lualine (same as vim-airline)**
+- **Markdown-preview (the name speaks for itself)**
+- **Nvim-highlight-colors (the name speaks for itself)**
+- **Nvim-tree (file manager)**
+- **Staline (bufferline)**
+- **Telescope (fzf finder)**
+
+### **Used Thunar plugins**
+
+- **Soon...**
 
 ## **Features**
 
@@ -87,10 +94,12 @@ yay -S $(cat DEPENDENCIES)
 - **Wifi menu (via rofi)**
 - **Current track polybar indicator**
 
+
 ## **To do list**
 
-- **Display manaer instead of default tty login**
+- **Display manager instead of default tty login**
 - **Theme selector script (not sure)**
+
 
 ## **Aviable themes**
 
@@ -132,6 +141,16 @@ yay -S $(cat DEPENDENCIES)
 ![GruvboxACPlugged](assets/gruvbox_ac_plugged.png)
 ![GruvboxACUnplugged](assets/gruvbox_ac_unplugged.png)
 ![GruvboxMouse](assets/gruvbox_mouse_connected.png)
+
+
+## **Dependencies**
+
+**All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
+```
+git clone https://github.com/shvedes/dotfiles
+cd dotfiles
+yay -S $(cat DEPENDENCIES)
+```
 
 
 ## **Known issues**
