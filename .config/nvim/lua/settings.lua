@@ -47,4 +47,6 @@ g.loaded_netrwPlugin    = 1
 
 opt.completeopt         = {'menu', 'menuone', 'noselect'}
 
+vim.cmd [[autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o]]  
+
 ----------------------------------------------------------------------------------------

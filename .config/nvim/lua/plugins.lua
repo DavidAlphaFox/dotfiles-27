@@ -37,7 +37,6 @@ return require('packer').startup(function(use)
         'jiangmiao/auto-pairs'
     }
 
-
 -- comment blocks ----------------------------------------------------------------------------------------
 
     use {
@@ -61,6 +60,7 @@ return require('packer').startup(function(use)
     use {
         'tamton-aquib/staline.nvim'
     }
+
 
 -- file explorer -----------------------------------------------------------------------------------------
 
@@ -101,17 +101,15 @@ return require('packer').startup(function(use)
         run = function() vim.fn["mkdp#util#install"]() end,
     })
 
----- preview images --------------------------------------------------------------------------------------
-
-    use {
-        'samodostal/image.nvim'
-    }
-    
 -- gruvbox theme ----------------------------------------------------------------------------------------
 
     use {
         "ellisonleao/gruvbox.nvim"
     }
+
+-- git status --------------------------------------------------------------------------------------------
+
+	use({ "lewis6991/gitsigns.nvim" })
 
 -- end of the packer function ----------------------------------------------------------------------------
 
