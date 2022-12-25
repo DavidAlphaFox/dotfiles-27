@@ -57,10 +57,11 @@ return require('packer').startup(function(use)
 
 -- buffers -----------------------------------------------------------------------------------------------
 
-    use {
-        'tamton-aquib/staline.nvim'
-    }
+    -- use {
+    --     'tamton-aquib/staline.nvim'
+    -- }
 
+    use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
 
 -- file explorer -----------------------------------------------------------------------------------------
 
