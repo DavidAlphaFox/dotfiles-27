@@ -81,7 +81,7 @@
 - **File manager: [Thunar](https://github.com/xfce-mirror/thunar)**
 - **Display manager: [LightDM](https://github.com/canonical/lightdm)**
 - **Screen lock: [Betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)**
-- **QT theme selector: [qt5ct](https://github.com/desktop-app/qt5ct), [at6ct](https://github.com/trialuser02/qt6ct)**
+- **QT theme selector: [qt5ct](https://github.com/desktop-app/qt5ct), [qt6ct](https://github.com/trialuser02/qt6ct)**
 - **GTK theme selector: [lxappearance](https://github.com/lxde/lxappearance)**
 - **Graphical volume managment: [Pavucontrol](https://github.com/pulseaudio/pavucontrol)**
 
