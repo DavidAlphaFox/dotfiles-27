@@ -22,10 +22,10 @@ $HOME/.config/bspwm/colors/gruvbox-dark.sh
 
 bspc config external_rules_command "$HOME/.local/bin/bspwm/external-rules.sh"
 
-bspc rule -a Code            desktop='^1' follow=on  state=tiled            center=off
+bspc rule -a Code            desktop='^1' follow=on  center=on
 bspc rule -a Spotify         desktop='^2' follow=off state=pseudo_tiled     center=on 
-bspc rule -a firefox         desktop='^3' follow=off state=tiled            center=off
-bspc rule -a TelegramDesktop desktop='^4' follow=off state=tiles            center=on
+bspc rule -a firefox         desktop='^3' follow=off center=off
+bspc rule -a TelegramDesktop desktop='^4' follow=off center=on
 bspc rule -a obs             desktop='^5' follow=off state=floating         center=on
 bspc rule -a Thunar          desktop='^6' follow=on  state=floating         center=on  rectangle=1300x800+0+0
 bspc rule -a mpv             desktop='^7' follow=on  state=tiled            center=on 
