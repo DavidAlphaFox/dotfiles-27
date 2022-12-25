@@ -134,7 +134,9 @@
 
 - **Gruvbox light**
 - **Dracula**
+- **Nord**
 
+**NOTE: you can suggest me the color scheme.**
 
 ### **Icons**
 
