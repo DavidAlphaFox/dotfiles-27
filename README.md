@@ -67,19 +67,16 @@
 - **GTK theme selector: [lxappearance](https://github.com/lxde/lxappearance)**
 - **Graphical volume managment: [Pavucontrol](https://github.com/pulseaudio/pavucontrol)**
 
-## **Dependencies** 
----
+## **Dependencies**
 
-- **spotify-polybar-module**
-- **picom-animations-git**
-- **xdotooll**
-- **xidlehook**
-- **dunst**
-- **xdo**
-
+**All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
+```
+git clone https://github.com/shvedes/dotfiles
+cd dotfiles
+yay -S $(cat DEPENDENCIES)
+```
 
 ## **Features**
----
 
 - **Battery critical level / fully charged alert (udev rule)**
 - **USB mouse plug in notification (udev rule)**
@@ -91,13 +88,11 @@
 - **Current track polybar indicator**
 
 ## **To do list**
----
 
 - **Display manaer instead of default tty login**
 - **Theme selector script (not sure)**
 
 ## **Aviable themes**
----
 
 - **Catppuccin frappe**
 - **Catppuccin latte**
@@ -140,12 +135,10 @@
 
 
 ## **Known issues**
----
 
 - **Transparent windows flickering (picom fork issue maybe)**
 
 ## **Contributor note**
----
 
 **Some configs were made with ChatGPT bot :))**
 
