@@ -144,10 +144,14 @@
 ### **Icons**
 
 - **[Stylish](https://github.com/kuroehanako/Stylish-icon-theme)**
+- **[Tela](https://github.com/vinceliuice/Tela-icon-theme)**
+- **[Nordzy](https://github.com/alvatip/Nordzy-icon)**
 
 ### **Cursors**
 
 - **[Material light](https://github.com/varlesh/material-cursors)**
+- **[Bibata](https://github.com/ful1e5/Bibata_Cursor)**
+- **[Future](https://github.com/yeyushengfan258/Future-cursors)**
 
 ### **LightDM theme**
 
@@ -183,7 +187,7 @@
 
 - **`tumbler` (image thumbnails)** 
 - **`file-roller` (graphical archive manager)**
-- **`xidlehook` (screen locker)**
+- **`xidlehook` (screen saver)**
 
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
