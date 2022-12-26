@@ -110,10 +110,10 @@
 
 ## **To do list**
 
-- ~~**Display manager instead of default tty login**~~ Done
+- ~~**Display manager instead of default tty login**~~ 
 - **Theme selector script (not sure)**
 - **More themes, more cursors, more icons...**
-- ~~**Add more comments in configs**~~ Done
+- ~~**Add more comments in configs**~~ 
 - **More screenshots with different themes** 
 
 
