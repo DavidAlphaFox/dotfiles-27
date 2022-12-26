@@ -224,6 +224,22 @@ per_monitor_dpi             = false
     background                  = "#282828"
     foreground                  = "#ebdbb2"
     timeout                     = 10
+    
+    # gruvbox-light
+
+    # [urgency_low]
+    # frame_color                 = "#b8bb26"  
+    # background                  = "#fbf1c7"  
+    # foreground                  = "#3c3836"  
+    # [urgency_normal]
+    # frame_color                 = "#b8bb26"  
+    # background                  = "#fbf1c7"  
+    # foreground                  = "#3c3836"  
+    # [urgency_critical]
+    # frame_color                 = "#cc241d"
+    # background                  = "#fbf1c7"  
+    # foreground                  = "#3c3836"  
+    # timeout                     = 10
 
 
 # vim:ft=cfg
