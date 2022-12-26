@@ -215,8 +215,9 @@ yay -S $(cat DEPENDENCIES)
 | swap right       | super + shift + k | 
 | swap top         | super + shift + ; |
 | swap bottom      | super + shift + l |
-| tiled/floating   | super + f | 
-| tiled/pseudo_tiled | super + t |
+| tiled / floating | super + shift + f |
+| tiled / fullscreen | super + f | 
+| tiled / pseudo_tiled | super + t |
 | move window to workspace ***number*** | super + shift + (1-9,0) |
 | resize windows   | super + shift + (Arrow keys)
 | workspace ***number*** | super + (1-9,0) |
