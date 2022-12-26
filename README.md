@@ -161,6 +161,8 @@
 | ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
 | ![GruvboxRofi](assets/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox_ac.gif) |
 | ![GruvboxUSB](assets/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox_mtp.gif) |
+https://raw.githubusercontent.com/shvedes/dotfiles/main/assets/video_animations.mp4
+
 
 ## **Dependencies**
 
