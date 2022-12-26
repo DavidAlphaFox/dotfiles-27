@@ -114,6 +114,7 @@
 - **Theme selector script (not sure)**
 - **More themes, more cursors, more icons...**
 - ~~**Add more comments in configs**~~ Done
+- **More screenshots with different themes** 
 
 
 ## **Aviable themes**
