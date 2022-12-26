@@ -187,7 +187,7 @@
 - **`tumbler` (image thumbnails)** 
 - **`file-roller` (graphical archive manager)**
 - **`xidlehook` (screen saver)**
-- **`gvfs-mtp` (file transfer between Android phone and PC)
+- **`gvfs-mtp` (file transfer between Android phone and PC)**
 
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
