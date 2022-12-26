@@ -32,18 +32,11 @@
 
 
 
-![1](assets/first.png) 
+| ![1](assets/first.png) | ![2](assets/second.png) |
+|---|---|
+| ![3](assets/third.png) | ![4](assets/fourth.png) |
+| ![5](assets/fifth.png) | ![gif](assets/volume_and_brightness.gif) |
 
-![2](assets/second.png)
-
-![3](assets/third.png)
-
-![4](assets/fourth.png)
-
-![5](assets/fifth.png)
-
-### **Brightness and volume notifications**
-![gif](assets/volume_and_brightness.gif)
 
 </div>
 
@@ -161,26 +154,12 @@
 ---
 <div align="center"><p><b>Gruvbox</b></p></div>
 
-![GruvboxMain](assets/gruvbox_main.png)
-
-![GruvboxSpotify](assets/gruvbox_spotify.png)
-
-![GruvboxOBS](assets/gruvbox_obs.png)
-
-![GruvboxThunar](assets/gruvbox_thunar.png)
-
-![GruvboxTorrent](assets/gruvbox_qbittorrent.png)
-
-![GruvboxRofi](assets/gruvbox_rofi_menu.png)
-
-![GruvboxWifi](assets/gruvbox_wifi_menu.png)
-
-![GruvboxUSBConnected](assets/gruvbox_usb_plug.png)
-![GruvboxUSBDisconnected](assets/gruvbox_usb_unplug.png)
-![GruvboxACPlugged](assets/gruvbox_ac_plugged.png)
-![GruvboxACUnplugged](assets/gruvbox_ac_unplugged.png)
-![GruvboxMouse](assets/gruvbox_mouse_connected.png)
-
+| ![GruvboxMain](assets/gruvbox_main.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
+| --- | --- |
+| ![GruvboxOBS](assets/gruvbox_obs.png) | ![GruvboxThunar](assets/gruvbox_thunar.png) | 
+| ![GruvboxTorrent](assets/gruvbox_qbittorrent.png) | ![GruvboxRofi](assets/gruvbox_rofi_menu.png) |
+| ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxNvim](assets/gruvbox_nvim.png) |
+| ![GruvboxAC](assets/gruvbox_ac.mp4) | ![GruvboxMTP](assets/gruvbox_mtp.mp4)
 
 ## **Dependencies**
 
