@@ -159,7 +159,6 @@
 | ![GruvboxOBS](assets/gruvbox_obs.png) | ![GruvboxThunar](assets/gruvbox_thunar.png) | 
 | ![GruvboxTorrent](assets/gruvbox_qbittorrent.png) | ![GruvboxRofi](assets/gruvbox_rofi_menu.png) |
 | ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxNvim](assets/gruvbox_nvim.png) |
-| ![GruvboxAC](assets/gruvbox_ac.mp4) | ![GruvboxMTP](assets/gruvbox_mtp.mp4)
 
 ## **Dependencies**
 
