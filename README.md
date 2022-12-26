@@ -96,7 +96,7 @@
 - **Markdown-preview (the name speaks for itself)**
 - **Nvim-highlight-colors (the name speaks for itself)**
 - **Nvim-tree (file manager)**
-- **Staline (bufferline)**
+- **bufferline**
 - **Telescope (fzf finder)**
 
 ### **Used Thunar plugins**
