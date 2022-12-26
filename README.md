@@ -123,7 +123,9 @@
 - **Catppuccin latte**
 - **Catppuccin macchiato**
 - **Catppuccin mocha**
+- **Gruvbox light**
 - **Gruvbox dark**
+- **One Dark**
 
 ### **Color schemes that I plan to add (list can grow)**
 
