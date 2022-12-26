@@ -161,7 +161,7 @@
 | ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
 | ![GruvboxRofi](assets/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox_ac.gif) |
 | ![GruvboxUSB](assets/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox_mtp.gif) |
-https://raw.githubusercontent.com/shvedes/dotfiles/main/assets/video_animations.mp4
+| ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox_nvim_2.png) |
 
 
 ## **Dependencies**
