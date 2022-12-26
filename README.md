@@ -91,7 +91,6 @@
 - **Comment.nvim (usefull shortcuts for comments)**
 - **Alpha-nvim (startup dashboard)**
 - **Nvim-cmp (autocompletion)**
-- **image (preview images in ascii format)**
 - **Lualine (same as vim-airline)**
 - **Markdown-preview (the name speaks for itself)**
 - **Nvim-highlight-colors (the name speaks for itself)**
@@ -134,9 +133,10 @@
 
 ### **Color schemes that I plan to add (list can grow)**
 
-- **Gruvbox light**
+- ~~**Gruvbox light**~~ Done
 - **Dracula**
 - **Nord**
+- ~~**One Dark**~~ Done
 
 **NOTE: you can suggest me the color scheme.**
 
