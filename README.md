@@ -126,10 +126,10 @@
 
 ### **Color schemes that I plan to add (list can grow)**
 
-- ~~**Gruvbox light**~~ Done
+- ~~**Gruvbox light**~~
 - **Dracula**
 - **Nord**
-- ~~**One Dark**~~ Done
+- ~~**One Dark**~~
 
 **NOTE: you can suggest me the color scheme.**
 
@@ -154,11 +154,13 @@
 ---
 <div align="center"><p><b>Gruvbox</b></p></div>
 
-| ![GruvboxMain](assets/gruvbox_main.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
+
+| ![GruvboxMain](assets/gruvbox_main.png) | ![GruvboxNvim](assets/gruvbox_nvim.png) |
 | --- | --- |
-| ![GruvboxOBS](assets/gruvbox_obs.png) | ![GruvboxThunar](assets/gruvbox_thunar.png) | 
-| ![GruvboxTorrent](assets/gruvbox_qbittorrent.png) | ![GruvboxRofi](assets/gruvbox_rofi_menu.png) |
-| ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxNvim](assets/gruvbox_nvim.png) |
+| ![GruvboxThunar](assets/gruvbox_thunar.png) | ![GruvboxTorrent](assets/gruvbox_qbittorrent.png) | 
+| ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
+| ![GruvboxRofi](assets/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox_ac.gif) |
+| ![GruvboxUSB](assets/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox_mtp.gif) |
 
 ## **Dependencies**
 
