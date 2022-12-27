@@ -173,7 +173,7 @@
 - **`file-roller` (graphical archive manager)**
 - **`xidlehook` (screen saver)**
 - **`gvfs-mtp` (file transfer between Android phone and PC)**
-= **`maim` (screenshot tool)**
+- **`maim` (screenshot tool)**
 
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
