@@ -223,8 +223,8 @@ yay -S $(cat DEPENDENCIES)
 | Restart BSPWM                 | Super + Shift + R             |
 | Quit BSPWM                    | Super + Shift + Q             |
 | **Apps**                      |                               |
-| Open Firefox                  | Ctrl + Shift + F              |
-| Open Spotify                  | Ctrl + Shift + S              |
+| Open Firefox                  | Ctrl + Alt + F                |
+| Open Spotify                  | Ctrl + Alt + S                |
 
 
 
