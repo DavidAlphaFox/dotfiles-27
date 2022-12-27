@@ -230,6 +230,7 @@ yay -S $(cat DEPENDENCIES)
 | Open app launcher             | Super + A                     |
 | Open clipboard                | Super + V                     |
 | Clear clipboard               | Super + Shift + V             |
+| Change wallpaper              | Super + Shift + W             |
 | Restart BSPWM                 | Super + Shift + R             |
 | Quit BSPWM                    | Super + Shift + Q             |
 | **Apps**                      |                               |
