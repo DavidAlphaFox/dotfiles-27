@@ -166,6 +166,15 @@
 | ![GruvboxUSB](assets/gruvbox/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox/gruvbox_mtp.gif) |
 | ![GruvboxAnimations](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox/gruvbox_nvim_2.png) |
 
+<div align="center"><p><b>Gruvbox Light</b></p></div>
+
+| ![GruvboxLightMain](assets/gruvbox_light/gruvbox_light_main.png) | ![GruvboxLightNvim](assets/gruvbox_light/gruvbox_light_nvim.png) |
+| --- | --- |
+| ![GruvboxLightThunar](assets/gruvbox_light/gruvbox_light_thunar.png) | ![GruvboxLightTorrent](assets/gruvbox_light/gruvbox_light_qbittorrent.png) |
+| ![GruvboxLightWifi](assets/gruvbox_light/gruvbox_light_wifi_menu.png) | ![GruvboxLightSpotify](assets/gruvbox_light/gruvbox_light_spotify.png) |
+| ![GruvboxLightUSB](assets/gruvbox_light/gruvbox_light_usb.gif) | ![GruvboxLightMTP](assets/gruvbox_light/gruvbox_light_mtp.gif) |
+| ![GruvboxLightAnimations](https://user-images.githubusercontent.com/84767665/209684131-e7dd9d9b-8076-4953-bb99-59f57a8c48bf.gif) | ![GruvboxLightNvim2](assets/gruvbox_light/gruvbox_light_nvim_2.png) |
+
 <div align="center"><p><b>One Dark</b></p></div>
 
 | ![OneDarkMain](assets/onedark/onedark_main.png) | ![OneDarkNvim](assets/onedark/onedark_nvim.png) |
@@ -174,6 +183,9 @@
 | ![OneDarkRofi](assets/onedark/onedark_rofi_menu.png) | ![OneDarkAC](assets/onedark/onedark_ac.gif) |
 | ![OneDarkUSB](assets/onedark/onedark_usb.gif) | ![OneDarkMTP](assets/onedark/onedark_mtp.gif) |
 | ![OneDarkAnimations](https://user-images.githubusercontent.com/84767665/209672524-a9ba1e9b-d1cb-40cb-9e6a-16cb270cbef9.gif) | ![OneDarkNvim2](assets/onedark/onedark_nvim_2.png) |
+
+
+
 
 
 
