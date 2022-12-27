@@ -133,7 +133,6 @@
 - **Dracula**
 - **Nord**
 - ~~**One Dark**~~
-- **Arc Dark**
 
 **NOTE: you can suggest me the color scheme.**
 
@@ -156,8 +155,8 @@
 
 ### **More screenshots (list can grow)**
 ---
-<div align="center"><p><b>Gruvbox</b></p></div>
 
+<div align="center"><p><b>Gruvbox</b></p></div>
 
 | ![GruvboxMain](assets/gruvbox/gruvbox_main.png) | ![GruvboxNvim](assets/gruvbox/gruvbox_nvim.png) |
 | --- | --- |
@@ -165,7 +164,17 @@
 | ![GruvboxWifi](assets/gruvbox/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox/gruvbox_spotify.png) |
 | ![GruvboxRofi](assets/gruvbox/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox/gruvbox_ac.gif) |
 | ![GruvboxUSB](assets/gruvbox/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox/gruvbox_mtp.gif) |
-| ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox/gruvbox_nvim_2.png) |
+| ![GruvboxAnimations](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox/gruvbox_nvim_2.png) |
+
+<div align="center"><p><b>One Dark</b></p></div>
+
+| ![OneDarkMain](assets/onedark/onedark_main.png) | ![OneDarkNvim](assets/onedark/onedark_nvim.png) |
+| --- | --- |
+| ![OneDarkwifi](assets/onedark/onedark_wifi_menu.png) | ![OneDarkSpotify](assets/onedark/onedark_spotify.png) |
+| ![OneDarkRofi](assets/onedark/onedark_rofi_menu.png) | ![OneDarkAC](assets/onedark/onedark_ac.gif) |
+| ![OneDarkUSB](assets/onedark/onedark_usb.gif) | ![OneDarkMTP](assets/onedark/onedark_mtp.gif) |
+| ![OneDarkAnimations](https://user-images.githubusercontent.com/84767665/209672524-a9ba1e9b-d1cb-40cb-9e6a-16cb270cbef9.gif) | ![OneDarkNvim2](assets/onedark/onedark_nvim_2.png) |
+
 
 
 ## **Dependencies**
