@@ -112,6 +112,10 @@ return require('packer').startup(function(use)
 
 	use({ "lewis6991/gitsigns.nvim" })
 
+-- one dark theme ----------------------------------------------------------------------------------------
+
+    use 'navarasu/onedark.nvim'
+
 -- end of the packer function ----------------------------------------------------------------------------
 
 

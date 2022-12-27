@@ -8,6 +8,7 @@ local g = vim.g
 -- solorschemes
 
 -- vim.cmd.colorscheme "catppuccin-macchiato"
+-- vim.cmd.colorscheme "onedark"
 vim.cmd.colorscheme "gruvbox"
 
 opt.relativenumber 		= true                      -- set relative number
