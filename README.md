@@ -252,4 +252,4 @@ yay -S $(cat DEPENDENCIES)
 
 **Some configs were made with ChatGPT bot :))**
 
-<div align="center"><img src="assets/cat.svg"></div>
+<div align="center"><img src="assets/preview/cat.svg"></div>
