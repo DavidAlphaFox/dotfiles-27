@@ -32,10 +32,10 @@
 
 
 
-| ![1](assets/first.png) | ![2](assets/second.png) |
+| ![1](assets/preview/first.png) | ![2](assets/preview/second.png) |
 |---|---|
-| ![3](assets/third.png) | ![4](assets/fourth.png) |
-| ![5](assets/fifth.png) | ![gif](assets/volume_and_brightness.gif) |
+| ![3](assets/preview/third.png) | ![4](assets/preview/fourth.png) |
+| ![5](assets/preview/fifth.png) | ![gif](assets/preview/volume_and_brightness.gif) |
 
 
 </div>
@@ -133,6 +133,7 @@
 - **Dracula**
 - **Nord**
 - ~~**One Dark**~~
+- **Arc Dark**
 
 **NOTE: you can suggest me the color scheme.**
 
@@ -158,13 +159,13 @@
 <div align="center"><p><b>Gruvbox</b></p></div>
 
 
-| ![GruvboxMain](assets/gruvbox_main.png) | ![GruvboxNvim](assets/gruvbox_nvim.png) |
+| ![GruvboxMain](assets/gruvbox/gruvbox_main.png) | ![GruvboxNvim](assets/gruvbox/gruvbox_nvim.png) |
 | --- | --- |
-| ![GruvboxThunar](assets/gruvbox_thunar.png) | ![GruvboxTorrent](assets/gruvbox_qbittorrent.png) | 
-| ![GruvboxWifi](assets/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox_spotify.png) |
-| ![GruvboxRofi](assets/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox_ac.gif) |
-| ![GruvboxUSB](assets/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox_mtp.gif) |
-| ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox_nvim_2.png) |
+| ![GruvboxThunar](assets/gruvbox/gruvbox_thunar.png) | ![GruvboxTorrent](assets/gruvbox/gruvbox_qbittorrent.png) | 
+| ![GruvboxWifi](assets/gruvbox/gruvbox_wifi_menu.png) | ![GruvboxSpotify](assets/gruvbox/gruvbox_spotify.png) |
+| ![GruvboxRofi](assets/gruvbox/gruvbox_rofi_menu.png) | ![GruvboxAC](assets/gruvbox/gruvbox_ac.gif) |
+| ![GruvboxUSB](assets/gruvbox/gruvbox_usb.gif) | ![GruvboxMTP](assets/gruvbox/gruvbox_mtp.gif) |
+| ![ezgif com-gif-maker(4)](https://user-images.githubusercontent.com/84767665/209586340-3f02a977-4873-457e-8a9e-732c384c54d6.gif) | ![GruvboxNvim2](assets/gruvbox/gruvbox_nvim_2.png) |
 
 
 ## **Dependencies**
