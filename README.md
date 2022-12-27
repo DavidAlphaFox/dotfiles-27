@@ -179,11 +179,19 @@
 
 | ![OneDarkMain](assets/onedark/onedark_main.png) | ![OneDarkNvim](assets/onedark/onedark_nvim.png) |
 | --- | --- |
-| ![OneDarkwifi](assets/onedark/onedark_wifi_menu.png) | ![OneDarkSpotify](assets/onedark/onedark_spotify.png) |
+| ![OneDarkWifi](assets/onedark/onedark_wifi_menu.png) | ![OneDarkSpotify](assets/onedark/onedark_spotify.png) |
 | ![OneDarkRofi](assets/onedark/onedark_rofi_menu.png) | ![OneDarkAC](assets/onedark/onedark_ac.gif) |
 | ![OneDarkUSB](assets/onedark/onedark_usb.gif) | ![OneDarkMTP](assets/onedark/onedark_mtp.gif) |
 | ![OneDarkAnimations](https://user-images.githubusercontent.com/84767665/209672524-a9ba1e9b-d1cb-40cb-9e6a-16cb270cbef9.gif) | ![OneDarkNvim2](assets/onedark/onedark_nvim_2.png) |
 
+<div align="center"><p><b>Catppuccin Latte</b></p></div>
+
+| ![CatppuccinLatteMain](assets/catppuccin_latte/catppuccin_latte_main.png) | ![CatppuccinLatteNvim](assets/catppuccin_latte/catppuccin_latte_nvim.png) |
+| --- | --- |
+| ![CattpuccinLatteWifi](assets/catppuccin_latte/catppuccin_latte_wifi.png) | ![CatppuccinLattespotify](assets/catppuccin_latte/catppuccin_latte_spotify.png) |
+| ![CatppuccinLatteRofi](assets/catppuccin_latte/catppuccin_latte_rofi_menu.png) | ![CatppuccinLatteAC](assets/catppuccin_latte/catppuccin_latte_ac.gif) |
+| ![CatppuccinLatteUSB](assets/catppuccin_latte/catppuccin_latte_usb.gif) | ![CatppuccinLatteMTP](assets/catppuccin_latte/catppuccin_latte_mtp.gif) |
+| ![CatppuccinLatteAnimations](https://user-images.githubusercontent.com/84767665/209689701-277788aa-ff9f-4f54-aa24-8ebe2cdded08.gif) | ![CatppuccinLatteNvim2](assets/catppuccin_latte/catppuccin_latte_nvim_2.png) |
 
 
 
