@@ -173,6 +173,7 @@
 - **`file-roller` (graphical archive manager)**
 - **`xidlehook` (screen saver)**
 - **`gvfs-mtp` (file transfer between Android phone and PC)**
+= **`maim` (screenshot tool)**
 
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
@@ -185,49 +186,57 @@ yay -S $(cat DEPENDENCIES)
 ## **BSPWM shortcuts**
 
 
-| Parameter        | Shortcut |
-| ---------------- | ----------- |
-| close window     | super + q |
-| fullscreen mode  | super + f | 
-| rotate windows   | super + r | 
-| focus left       | super + j |
-| focues right     | super + k |
-| focus top        | super + ; |
-| focus bottom     | super + l |
-| focus next/prev  | super + n |
-| switch layout    | super + m |
-| swap left        | super + shift + j |
-| swap right       | super + shift + k | 
-| swap top         | super + shift + ; |
-| swap bottom      | super + shift + l |
-| tiled / floating | super + shift + f |
-| tiled / fullscreen | super + f | 
-| tiled / pseudo_tiled | super + t |
-| move window to workspace ***number*** | super + shift + (1-9,0) |
-| resize windows   | super + shift + (Arrow keys)
-| workspace ***number*** | super + (1-9,0) |
-| next workspace   | ctrl + alt + Right |
-| prev workspace   | ctrl + alt + Lrft | 
-| last workspace   | super + tab |
-| restart bspwm & sxhkd | super + shift + r | 
-| bspwm quit       | ctrl + alt + q | 
-| fullscreen screenshot | super + shift + z | 
-| active window screenshot | super + shift + a | 
-| area screenshot  | super + shift + s |
-| rofi             | super + a |
-| clipboard        | super + c | 
-| clear clipboard  | super + shift + c |
-| thunar           | super + e | 
-| spotify (if installed) | ctrl + alt + s |
-| firefox          | ctrl + alt + f | 
-| terminal         | super + Return |
-| change wallpaper | super + shift + w | 
-| lock session     | ctrl + shift + l |
+| Parameter                     | Shortcut                      |
+|            ---                |           ---                 |   
+| **Windows**                   |                               |
+| Rotate windows                | Super + R                     |
+| Close window                  | Super + Q                     |
+| Focus on left                 | Super + J                     | 
+| Focus on right                | Super + K                     |
+| Focus on bottom               | Super + L                     |
+| Focus on top                  | Super + semicolon             |
+| Switch to left                | Super + Shift + J             |
+| Switch to right               | Super + Shift + K             |
+| Switch to bottom              | Super + Shift + L             | 
+| Switch to top                 | Super + Shift + semicolon     |
+| Resize window                 | Super + Shift + ArrowKeys     |
+| **Modes**                     |                               |
+| Floating mode                 | Super + Shift + F             | 
+| Fullscreen mode               | Super + F                     | 
+| Pseudo tiled mode             | Super + T                     | 
+| Monocle mode                  | Super + M                     |
+| **Workspaces**                |                               |
+| Next workspace                | Ctrl + Alt + Right            | 
+| Previous workspace            | Ctrl + Alt + Left             |
+| Last used workspace           | Super + Tab                   |
+| Switch to workspace           | Super + (1-9,0)               |
+| Move window to workspace      | Super + Shift + (1-9,0)       |
+| **Screenshots**               |                               |
+| Fullscreen                    | Super + Shift + Z             |
+| Active window                 | Super + Shift + A             |
+| Selected area                 | Super + Shift + S             |
+| **System**                    |                               |
+| Open terminal                 | Super + Return                |
+| Open app launcher             | Super + A                     |
+| Open clipboard                | Super + V                     |
+| Clear clipboard               | Super + Shift + V             |
+| Restart BSPWM                 | Super + Shift + R             |
+| Quit BSPWM                    | Super + Shift + Q             |
+| **Apps**                      |                               |
+| Open Firefox                  | Ctrl + Shift + F              |
+| Open Spotify                  | Ctrl + Shift + S              |
+
+
+
 
 
 ## **Known issues**
 
 - **Transparent windows flickering (picom fork issue maybe)**
+
+### **QUESTION:** ***Configs don't work on my system!***
+
+  ***Make sure you have all dependencies installed. If the problem persists, then open an issue with a detailed description of the problem***
 
 ## **Contributor note**
 
