@@ -9,9 +9,10 @@ export DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus"
 BATTERY_CHARGING=$1
 ICON_CHARGING="$HOME/.local/bin/notifications/icons/battery_charging.png"
 ICON_DISCHARGING="$HOME/.local/bin/notifications/icons/battery_discharging.png"
+BATTERY_LEVEL=`acpi -b | grep "Battery 0" | grep -P -o '[0-9]+(?=%)'`
 
 if [ $BATTERY_CHARGING -eq 1 ]; then
-    notify-send -a "ChargingNotify" -i $ICON_CHARGING "Power adapter plugged"  -u low -r 998
+    notify-send -a "ChargingNotify" -i $ICON_CHARGING "Charging" "${BATTERY_LEVEL}% of battery charged" -u low -r 998
 elif [ $BATTERY_CHARGING -eq 0 ]; then
-    notify-send -a "ChargingNotify" -i $ICON_DISCHARGING "Power adapter unplugged" -u low -r 998
+    notify-send -a "ChargingNotify" -i $ICON_DISCHARGING "Discharging" "${BATTERY_LEVEL}% of battery remaining" -u low -r 998
 fi
