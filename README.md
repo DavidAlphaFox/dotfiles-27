@@ -204,6 +204,7 @@
 - **`xidlehook` (screen saver)**
 - **`gvfs-mtp` (file transfer between Android phone and PC)**
 - **`maim` (screenshot tool)**
+- **`cronie` (for battery status script)**
 
 
 **All dependencies are aviable in `DEPENDECIES` file. To install them, do the following:**
