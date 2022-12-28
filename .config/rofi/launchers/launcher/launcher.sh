@@ -5,6 +5,4 @@ dir="$HOME/.config/rofi/launchers/launcher"
 theme='launcher'
 
 ## Run
-rofi \
-    -show drun \
-    -theme ${dir}/${theme}.rasi
+rofi -show drun -theme ${dir}/${theme}.rasi
