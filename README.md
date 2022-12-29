@@ -193,7 +193,12 @@
 | ![CatppuccinLatteUSB](assets/catppuccin_latte/catppuccin_latte_usb.gif) | ![CatppuccinLatteMTP](assets/catppuccin_latte/catppuccin_latte_mtp.gif) |
 | ![CatppuccinLatteAnimations](https://user-images.githubusercontent.com/84767665/209689701-277788aa-ff9f-4f54-aa24-8ebe2cdded08.gif) | ![CatppuccinLatteNvim2](assets/catppuccin_latte/catppuccin_latte_nvim_2.png) |
 
+<div align="center"><p><b>Catppuccin Latte</b></p></div>
 
+| ![NordMain](assets/nord/nord_main.png) | ![NordNvim](assets/nord/nord_nvim.png) |
+| --- | --- |
+| ![NordWifi](assets/nord/nord_wifi_menu.png) | ![NordRofi](assets/nord/nord_rofi_menu.png) |
+| ![NordThunar](assets/nord/nord_thunar.png) | ![NordTorrent](assets/nord/nord_qbittorrent.png)
 
 
 
