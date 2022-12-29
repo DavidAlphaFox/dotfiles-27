@@ -7,9 +7,13 @@ local g = vim.g
 
 -- solorschemes
 
+-- vim.cmd.colorscheme "catppuccin-latte"
+-- vim.cmd.colorscheme "catppuccin-frappe"
 -- vim.cmd.colorscheme "catppuccin-macchiato"
+-- vim.cmd.colorscheme "catppuccin-mocha"
 -- vim.cmd.colorscheme "onedark"
-vim.cmd.colorscheme "gruvbox"
+-- vim.cmd.colorscheme "gruvbox"
+vim.cmd.colorscheme "nord"
 
 opt.relativenumber 		= true                      -- set relative number
 opt.termguicolors       = true                      -- 24 bit color support

@@ -1,5 +1,4 @@
 -- https://github.com/shvedes/dotfiles
-
 -- packer section ----------------------------------------------------------------------------------------
 
 vim.cmd [[packadd packer.nvim]]
@@ -115,6 +114,9 @@ return require('packer').startup(function(use)
 -- one dark theme ----------------------------------------------------------------------------------------
 
     use 'navarasu/onedark.nvim'
+-- nord theme --------------------------------------------------------------------------------------------
+
+    use 'shaunsingh/nord.nvim'
 
 -- end of the packer function ----------------------------------------------------------------------------
 
