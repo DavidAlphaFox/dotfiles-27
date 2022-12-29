@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Wifi Menu
-Exec=/home/shved/.config/rofi/launchers/wifi/wifi.sh
-Terminal=false
