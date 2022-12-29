@@ -13,7 +13,7 @@ bspc monitor -d I II III IV V VI VII VIII IX X
 # The `border_width` field specifies the size of the border around windows.
 # The `pointer_motion_interval` field specifies the minimum interval, in milliseconds, between two motion notify events.
 bspc config window_gap                 10
-bspc config border_width               2 
+bspc config border_width               1
 bspc config pointer_motion_interval    30
 
 ##### themes
@@ -21,8 +21,10 @@ bspc config pointer_motion_interval    30
 # The `catppuccin` and `gruvbox` themes are Bash scripts that set the colors for bspwm.
 # These themes can be found in the `~/.config/bspwm/colors/` directory.
 
-# $HOME/.config/bspwm/colors/catppuccin.sh
-$HOME/.config/bspwm/colors/gruvbox-dark.sh
+# $HOME/.config/bspwm/colors/catppuccin
+$HOME/.config/bspwm/colors/one-dark
+# $HOME/.config/bspwm/colors/gruvbox-dark
+# $HOME/.config/bspwm/colors/nord
 
 ##### window rules
 
@@ -43,7 +45,7 @@ bspc rule -a Spotify         desktop='^2' follow=off state=pseudo_tiled     cent
 bspc rule -a firefox         desktop='^3' follow=off center=off
 bspc rule -a TelegramDesktop desktop='^4' follow=off center=on
 bspc rule -a obs             desktop='^5' follow=off state=floating         center=on
-bspc rule -a Thunar          desktop='^6' follow=on  state=floating         center=on  rectangle=1300x800+0+0
+bspc rule -a Thunar          desktop='^6' follow=on                                    rectangle=1300x800+0+0
 bspc rule -a mpv             desktop='^7' follow=on  state=tiled            center=on 
 bspc rule -a feh             desktop='^7' follow=on  state=tiled            center=on
 bspc rule -a qBittorrent     desktop='^9' follow=on  state=floating         center=on  rectangle=1200x650+0+0
