@@ -211,28 +211,28 @@ per_monitor_dpi             = false
 
     # gruvbox
     
-    [urgency_low]
-    frame_color                 = "#c08951"
-    background                  = "#282828"
-    foreground                  = "#ebdbb2"
-    [urgency_normal]
-    frame_color                 = "#c08951"
-    background                  = "#282828"
-    foreground                  = "#ebdbb2"
-    [urgency_critical]
-    frame_color                 = "#cc241d"
-    background                  = "#282828"
-    foreground                  = "#ebdbb2"
-    timeout                     = 10
+    # [urgency_low]
+    # frame_color                 = "#c08951"
+    # background                  = "#282828"
+    # foreground                  = "#ebdbb2"
+    # [urgency_normal]
+    # frame_color                 = "#c08951"
+    # background                  = "#282828"
+    # foreground                  = "#ebdbb2"
+    # [urgency_critical]
+    # frame_color                 = "#cc241d"
+    # background                  = "#282828"
+    # foreground                  = "#ebdbb2"
+    # timeout                     = 10
     
     # gruvbox-light
 
     # [urgency_low]
-    # frame_color                 = "#b8bb26"  
+    # frame_color                 = "#c08951"  
     # background                  = "#fbf1c7"  
     # foreground                  = "#3c3836"  
     # [urgency_normal]
-    # frame_color                 = "#b8bb26"  
+    # frame_color                 = "#c08951"  
     # background                  = "#fbf1c7"  
     # foreground                  = "#3c3836"  
     # [urgency_critical]
@@ -241,5 +241,38 @@ per_monitor_dpi             = false
     # foreground                  = "#3c3836"  
     # timeout                     = 10
 
+    # one-dark
+
+    # [urgency_low]
+    # frame_color                 = "#57a5e5"
+    # background                  = "#282c34"
+    # foreground                  = "#abb2bf"
+    # [urgency_normal]
+    # frame_color                 = "#57a5e5"
+    # background                  = "#282c34"
+    # foreground                  = "#abb2bf"
+    # [urgency_critical]
+    # frame_color                 = "#e06c75"
+    # background                  = "#282c34"
+    # foreground                  = "#abb2bf"
+    # timeout                     = 10
+
+    # nord
+
+    [urgency_low]
+    frame_color                 = "#81A1C1"
+    background                  = "#2E3440"
+    foreground                  = "#D8DEE9"
+
+    [urgency_normal]
+    frame_color                 = "#81A1C1"
+    background                  = "#2E3440"
+    foreground                  = "#D8DEE9"
+
+    [urgency_critical]
+    frame_color                 = "#BF616A"
+    background                  = "#2E3440"
+    foreground                  = "#D8DEE9"
+    timeout                     = 10
 
 # vim:ft=cfg
