@@ -131,7 +131,7 @@
 
 - ~~**Gruvbox light**~~
 - **Dracula**
-- **Nord**
+- ~~**Nord**~~
 - ~~**One Dark**~~
 
 **NOTE: you can suggest me the color scheme.**
