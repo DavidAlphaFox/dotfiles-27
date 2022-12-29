@@ -9,7 +9,7 @@ super + shift + r
     sxhkd 
 
 # quit bspwm 
-ctrl + alt + q
+super + shift + q
 	bspc quit
 
 # tiled / monocle mode
@@ -25,8 +25,8 @@ super + {_,shift + }{j,k,l,semicolon}
     bspc node --{focus,swap} {west,east,south,north}
 
 # focus the next/previous window
-# super + n
-# 	bspc node -f next.local
+super + n
+	bspc node -f next.local
 
 # fullscreen mode
 super + f
@@ -90,7 +90,7 @@ super + a
     sh ~/.config/rofi/launchers/launcher/launcher.sh
 
 # open clipboard menu
-super + c
+super + v
     sh ~/.config/rofi/launchers/clipboard/clipboard.sh
 
 # change wallpaper
@@ -98,7 +98,7 @@ super + shift + w
     feh -z --bg-fill ~/.wallpapers
 
 # clear clipboard
-super + shift + c
+super + shift + v
     greenclip clear
 
 # lock session
